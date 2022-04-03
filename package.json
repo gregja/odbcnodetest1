@@ -1,5 +1,5 @@
 {
-  "name": "odbcnode",
+  "name": "nodeitoolkit",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "odbc": "^2.3.0"
+    "alasql": "^1.7.3",
+    "odbc": "^2.4.3"
   }
 }

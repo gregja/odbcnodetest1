@@ -1,2 +1,2 @@
 # odbcnodetest1
-temporary repo for tests
+Experiments on IBM i server

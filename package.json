@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "alasql": "^1.7.3",
+    "alasql": "^4.1.2",
     "odbc": "^2.4.3"
   }
 }
